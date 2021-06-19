@@ -1,0 +1,1 @@
+[{"input":"1000 1001\n\n","output":"NO\n\n"},{"input":"123 255\n\n","output":"YES\n\n"},{"input":"100 200\n\n","output":"YES\n\n"}]
